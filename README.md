@@ -1,2 +1,2 @@
 # Files-Repository
-Store my working papers and CV
+Store my working papers
